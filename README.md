@@ -1,8 +1,8 @@
-✭・.・Hi, I'm Natalia Manosso 。.・✫
+✭・.・Olá, me chamo Natalia Manosso 。.・✫
 
-I'm Frontend Developer :)
+Sou desenvolvedora FrontEnd React, com foco em Nextjs :)
 
-You can reach me in {
+Caso queira entrar em contato comigo, sinta-se a vontade {
             Linkedin (https://www.linkedin.com/in/natalia-manosso-097b2a214/)
-            Email (nafmanosso@gmail.com)
+            E-mail (nafmanosso@gmail.com)
 }
