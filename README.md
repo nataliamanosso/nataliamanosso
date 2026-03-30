@@ -1,7 +1,7 @@
 <h2 align="center">✭・.・Olá, me chamo <strong>Natalia Manosso</strong> 。.・✫</h2>
 
 <p align="center">
-  <strong>Desenvolvedora Fullstack</strong> com +3 anos de experiência<br>
+  <strong>Desenvolvedora Fullstack</strong> com +4 anos de experiência<br>
   Apaixonada por <strong>arquitetura de software</strong>, usabilidade e código bem estruturado.
 </p>
 
